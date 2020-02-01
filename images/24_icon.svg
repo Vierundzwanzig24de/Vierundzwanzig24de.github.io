@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 270.93333 270.93334"
+   height="1024"
+   width="1024"
+   sodipodi:docname="24_icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="828"
+     inkscape:window-height="480"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="0.23046875"
+     inkscape:cx="512"
+     inkscape:cy="512"
+     inkscape:window-x="606"
+     inkscape:window-y="152"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2">
+    <font
+       id="font4546"
+       horiz-adv-x="1024">
+      <font-face
+         font-family="SVGFont 1"
+         id="font-face4548"
+         units-per-em="1024" />
+      <missing-glyph
+         id="missing-glyph4550"
+         d="M0,0h1000v1024h-1000z" />
+    </font>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-26.06665)"
+     id="layer1" />
+  <g
+     style="display:none"
+     id="layer3">
+    <circle
+       transform="matrix(-0.88834409,0.45917837,0.45917837,0.88834409,0,0)"
+       style="fill:none;stroke:none;stroke-width:0.23283333;stroke-opacity:1"
+       r="102.91233"
+       cy="183.22568"
+       cx="-55.998459"
+       id="path3733" />
+    <text
+       id="text4590"
+       y="176.43927"
+       x="49.514877"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:DpQuake;-inkscape-font-specification:DpQuake;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="185.24818"
+         x="49.514877"
+         id="tspan4588" /></text>
+    <text
+       id="text4606"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:DpQuake;-inkscape-font-specification:DpQuake;letter-spacing:0.5291667px;word-spacing:5.29166651px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><textPath
+         style="font-size:19.75555611px"
+         id="textPath4608"
+         xlink:href="#path3733"><tspan
+   x="87.3125"
+   y="161.41237"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:Constantia;-inkscape-font-specification:Constantia;letter-spacing:0.5291667px;word-spacing:5.29166651px;stroke-width:0.26458332"
+   id="tspan4602">IN MONEY WE TRUST</tspan></textPath></text>
+  </g>
+  <g
+     style="display:none"
+     id="layer2">
+    <circle
+       transform="rotate(163.0671)"
+       r="83.079163"
+       cy="-170.10492"
+       cx="-88.157776"
+       id="path4563"
+       style="fill:none;stroke:none;stroke-width:0.26458332;stroke-opacity:1" />
+    <text
+       id="text4579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><textPath
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.8666687px;font-family:Constantia;-inkscape-font-specification:'Constantia Bold'"
+         id="textPath4581"
+         xlink:href="#path4563"><tspan
+   x="43.845387"
+   y="54.62426"
+   id="tspan4575"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.8666687px;font-family:Constantia;-inkscape-font-specification:'Constantia Bold';stroke-width:0.26458332">VIERUNDZWANZIG</tspan></textPath></text>
+  </g>
+  <g
+     id="layer4">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:DpQuake;-inkscape-font-specification:DpQuake;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4620" />
+    <g
+       aria-label="24"
+       transform="matrix(0.84226456,0,0,0.84226456,-226.64723,-41.873803)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:DpQuake;-inkscape-font-specification:DpQuake;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4628">
+      <path
+         d="m 316.64907,342.73102 4.77866,-19.79733 v -107.52 l 58.02667,-99.32801 h -17.06666 v 12.288 H 321.42773 V 84.341684 l -6.82666,-8.533334 h 84.992 l 23.21067,13.994667 v 26.282663 l -63.14667,99.32801 v 37.20533 l 63.14667,-47.78667 v 48.46934 l 2.38933,4.096 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:341.33334351px;font-family:AmazDooMLeft;-inkscape-font-specification:AmazDooMLeft"
+         id="path839" />
+      <path
+         d="M 536.80374,84.341684 V 335.22169 l 3.75466,13.65333 -49.83466,-34.13333 5.46133,-8.192 V 213.02435 L 435.42773,176.50169 V 84.341684 l -6.82666,-8.533334 h 44.37333 v 78.50667 l 23.89334,13.312 V 75.80835 h 47.104 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMRight;-inkscape-font-specification:AmazDooMRight"
+         id="path841" />
+    </g>
+  </g>
+</svg>
